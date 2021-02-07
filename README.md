@@ -11,7 +11,7 @@
   * AccountToken: Your discord token (https://www.youtube.com/watch?v=co9TvsAtUmY&t)
   * Activity: Your discord Presence content
 * Add DANK MEMER BOT to your server or check if it is on the server that belongs to farm
-* Type into the console or CMD in the Dank memer farmer file directory: node .
+* Type into the console or CMD in the Dank memer farmer file directory: ```node .```
 * ENJOY :3
 
 
