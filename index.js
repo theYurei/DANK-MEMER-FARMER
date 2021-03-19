@@ -40,11 +40,14 @@ console.log(yellow('============================================================
 
     var interval = setInterval (function () {
       client.channels.cache.get(config.idchannel).send("pls beg").catch(console.error);}, 1 * 46500);
-    
+ 
+    var interval = setInterval (function () {
+      client.channels.cache.get(config.idchannel).send("pls dep all").catch(console.error);}, 1 * 60000);
+ 
    var interval1 = setInterval (function () {
       client.channels.cache.get(config.idchannel).send("pls fish").catch(console.error);}, 1 * 1800000);
 
-   var interval1 = setInterval (function () {
+   var interval1= setInterval (function () {
       client.channels.cache.get(config.idchannel).send("pls sell rarefish all").catch(console.error);}, 1 * 61500);
 
    var interval1 = setInterval (function () {
